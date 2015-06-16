@@ -2,4 +2,4 @@
 
 ![](https://github.com/SoClear/Pure-CSS3-Loading/blob/master/screenshot.png)
 
-[Demo](http://soclear.github.io/Pure-CSS3-Loading/)
+[Demo](http://codepen.io/ClearDesign/full/pJrLwm)
